@@ -1,3 +1,8 @@
 안녕하세요
 스타트 캠프입니다.
 잘될까요??
+
+echo "# startcamp01" >> README.md
+git branch -M master
+git remote add origin https://github.com/donghyeon0619/startcamp01.git
+git push -u origin master
